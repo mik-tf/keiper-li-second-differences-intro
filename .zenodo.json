@@ -1,0 +1,29 @@
+{
+  "upload_type": "publication",
+  "publication_type": "other",
+  "title": "Does the curve of the Li coefficients ever bend the other way? Introductory text to Sign changes of Keiper-Li second differences",
+  "creators": [
+    {
+      "name": "Perreault, Michaël",
+      "orcid": "0009-0003-0017-7658",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "description": "<p>A plain-language introduction to a research paper on the sign changes of the second differences of the Keiper-Li coefficients. The paper has the proofs; this note has the idea, and it says what the paper does and does not claim.</p>",
+  "keywords": [
+    "Keiper-Li coefficients",
+    "Riemann hypothesis",
+    "second differences",
+    "sign changes"
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24447746",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    }
+  ]
+}

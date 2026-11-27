@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Does the curve of the Li coefficients ever bend the other way? Introductory text to Sign changes of Keiper-Li second differences"
+type: generic
+authors:
+  - family-names: Perreault
+    given-names: Michaël
+    orcid: "https://orcid.org/0009-0003-0017-7658"
+    affiliation: "Independent researcher"
+version: "1.0"
+date-released: "2026-11-27"
+license: CC-BY-4.0
+keywords:
+  - Keiper-Li coefficients
+  - Riemann hypothesis
+  - second differences
+  - sign changes
+references:
+  - type: article
+    title: "Sign changes of Keiper-Li second differences"
+    authors:
+      - family-names: Perreault
+        given-names: Michaël
+    doi: "10.5281/zenodo.24447746"
+    year: 2026
