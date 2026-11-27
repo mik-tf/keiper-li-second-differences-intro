@@ -11,6 +11,8 @@ date_footer: "YYYY-MM-DD"
 header_title: "Does the curve of the Li coefficients ever bend the other way?"
 ---
 
+DOI of this text: [doi:10.5281/zenodo.24577183](https://doi.org/10.5281/zenodo.24577183)
+
 This is an introductory text to the research paper *Sign changes of Keiper-Li second differences* [[Per26]](https://doi.org/10.5281/zenodo.24447746), by the same author. The paper has the proofs and the full computations. This note has the idea. No equations are needed to follow it. It makes no claim the paper does not make, and it says which claims are proved, which are certified by computer with error bars, and which are only computed.
 
 One caution comes first, because the paper itself puts it first. The paper is about the sign of a certain sequence of numbers. It does not prove the Riemann hypothesis and it does not disprove it. Neither result contradicts the Riemann hypothesis or Li's criterion, which concern the sign of the Li coefficients themselves, not of the sequence studied here.
