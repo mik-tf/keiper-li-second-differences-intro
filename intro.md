@@ -93,6 +93,10 @@ It does not claim a complete survey of the literature. The paper lists what it s
 \par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
 ```
 
+# Use of AI {-}
+
+Claude (Anthropic) was used in November 2026, under the author's direction, for drafting, figures and checks.
+
 # Read the research paper {-}
 
 ```{=latex}
