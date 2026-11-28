@@ -87,14 +87,6 @@ It does not claim a complete survey of the literature. The paper lists what it s
 - The paper itself [[Per26]](https://doi.org/10.5281/zenodo.24447746), with the proofs, the error bounds, the certificates and the scripts.
 - The public code and certificates, at [github.com/mik-tf/keiper-li-second-differences](https://github.com/mik-tf/keiper-li-second-differences).
 
-# References {-}
-
-[Per26] M. Perreault, *Sign changes of Keiper-Li second differences*, 2026, Zenodo. [doi:10.5281/zenodo.24447746](https://doi.org/10.5281/zenodo.24447746).
-
-```{=latex}
-\par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
-```
-
 # Use of AI {-}
 
 Claude (Anthropic) was used in November 2026, under the author's direction, for drafting, figures and checks.
@@ -108,3 +100,11 @@ Claude (Anthropic) was used in November 2026, under the author's direction, for 
 The full paper, with the proofs, is *Sign changes of Keiper-Li second differences*, by Michaël Perreault.
 
 DOI: [doi:10.5281/zenodo.24447746](https://doi.org/10.5281/zenodo.24447746)
+
+```{=latex}
+\par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
+```
+
+# References {-}
+
+[Per26] M. Perreault, *Sign changes of Keiper-Li second differences*, 2026, Zenodo. [doi:10.5281/zenodo.24447746](https://doi.org/10.5281/zenodo.24447746).
